@@ -1,4 +1,4 @@
-## OpenSea Creatures - Starter ERC721, ERC1155, and factory contracts
+## City Caps League - ERC721 Contract
 
 What's included:
 
